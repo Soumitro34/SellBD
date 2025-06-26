@@ -1,0 +1,10 @@
+ {
+ "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
+// This configuration file is used to set up module resolution for a JavaScript project.
+// It specifies the base URL for module resolution and defines path aliases.
